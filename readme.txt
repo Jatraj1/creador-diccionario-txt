@@ -17,6 +17,7 @@ Introducir el número de palabras deseadas para el diccionario txt en la línea 
 
 Añadir un # delante de las líneas 14 a la 20 (las que no están vacias o no lo tienen ya)
 Quitar el # en las líneas 25 y 26
+En la línea 25, sustituir untextocualquiera.txt por el txt del que deseas extraer las palabras (debe estar en el mismo directorio que este programa)
 Introducir el número de palabras deseadas para el diccionario txt en la línea 55
 
 3. Para sacar contenido de otro formato de archivo como pdf o cualquier otro:
