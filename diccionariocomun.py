@@ -10,18 +10,20 @@ import PyPDF2
 
 
 # URL de la página web de la que deseas obtener las palabras
-# url = 'https://corpus.rae.es/frec/10000_formas.TXT'
+
+url = 'https://corpus.rae.es/frec/10000_formas.TXT'
 
 # Obtenemos el contenido HTML de la página web y extraemos el texto utilizando Beautiful Soup
-# html = requests.get(url).content
-# soup = BeautifulSoup(html, 'html.parser')
-# texto = soup.get_text()
+
+html = requests.get(url).content
+soup = BeautifulSoup(html, 'html.parser')
+texto = soup.get_text()
 
 
 # Sacar las palabras de un txt
 
-with open("setienequemorirmuchagente.txt", encoding="utf-8") as archivo:
-    texto = archivo.read()
+#with open("setienequemorirmuchagente.txt", encoding="utf-8") as archivo:
+#    texto = archivo.read()
 
 
 # Creamos una expresión regular que solo permite letras, espacios y signos de puntuación necesarios
