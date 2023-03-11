@@ -15,7 +15,7 @@ Introducir el número de palabras deseadas para el diccionario txt en la línea 
 
 2. Para sacar contenido de un txt:
 
-Añadir un # delante de las líneas 14 a 20 (las que no están vacias o no lo tienen ya
+Añadir un # delante de las líneas 14 a la 20 (las que no están vacias o no lo tienen ya)
 Quitar el # en las líneas 25 y 26
 Introducir el número de palabras deseadas para el diccionario txt en la línea 55
 
