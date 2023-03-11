@@ -22,7 +22,7 @@ texto = soup.get_text()
 
 # Sacar las palabras de un txt
 
-#with open("setienequemorirmuchagente.txt", encoding="utf-8") as archivo:
+#with open("untextocualquiera.txt", encoding="utf-8") as archivo:
 #    texto = archivo.read()
 
 
