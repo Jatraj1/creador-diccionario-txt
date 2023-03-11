@@ -11,7 +11,7 @@ import PyPDF2
 
 # URL de la página web de la que deseas obtener las palabras
 
-url = 'https://corpus.rae.es/frec/10000_formas.TXT'
+url = 'ejemplodeurl.es'
 
 # Obtenemos el contenido HTML de la página web y extraemos el texto utilizando Beautiful Soup
 
